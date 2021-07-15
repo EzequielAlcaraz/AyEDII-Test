@@ -12,4 +12,6 @@ int main()
     suma = dos + tres;
 
     cout << "Suma : " << suma << endl;
+
+    return 0;
 }
